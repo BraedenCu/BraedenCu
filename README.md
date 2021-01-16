@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hi 👋
 I am currently a student developer attending the Illinois Mathematics and Science Academy
 
 
