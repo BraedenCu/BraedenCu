@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am currently a student developer attending the Illinois Mathematics and Science Academy
+My name is Braeden, a student developer attending the Illinois Mathematics and Science Academy.
+My background is in IoT, robotics (namely ros-based), and AI
 
+- 📫 How to reach me: braedencullen120@gmail.com     
 
 <!--
 **BraedenCu/BraedenCu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: braedencullen120@gmail.com     
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
