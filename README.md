@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Braeden, a student developer attending the Illinois Mathematics and Science Academy.
-My background is in AI and robotics
+My background is in ML and robotics
 
 - 📫 How to reach me: braedencullen120@gmail.com     
 
