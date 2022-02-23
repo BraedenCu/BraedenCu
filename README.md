@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Braeden, a student developer attending the Illinois Mathematics and Science Academy.
+I'm Braeden, a student developer attending the Illinois Mathematics and Science Academy.
 I am interested in Machine Learning and Web Dev. 
 - 📫 How to reach me: braedencullen120@gmail.com     
 
