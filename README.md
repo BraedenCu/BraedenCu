@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Braeden, a developer attending the Illinois Mathematics and Science Academy.
 
