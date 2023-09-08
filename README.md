@@ -1,7 +1,4 @@
 ### Hi 👋
-
-I'm Braeden, a developer attending the Illinois Mathematics and Science Academy.
-
 - 📫 How to reach me: braedencullen120@gmail.com     
 
 <!--
