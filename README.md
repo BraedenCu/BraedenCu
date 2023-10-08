@@ -1,5 +1,5 @@
 ### Hi 👋
-- 📫 How to reach me: braedencullen120@gmail.com     
+braeden.cullen@yale.edu
 
 <!--
 **BraedenCu/BraedenCu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
