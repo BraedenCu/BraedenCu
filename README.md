@@ -1,4 +1,7 @@
-### braeden (dot) cullen (at) yale (dot) edu
+### 🌱 www.braedencullen.com 
+
+
+### 📫 braeden (dot) cullen (at) yale (dot) edu
 
 <!--
 **BraedenCu/BraedenCu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
