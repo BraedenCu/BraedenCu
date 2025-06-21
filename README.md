@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Braeden Cullen</h1>
+<h1 align="center">🐙 Hi, I'm Braeden Cullen 🐙</h1>
 <p align="center">
   ML Engineer • Embedded Systems Engineer • Autonomous Robotics  
 </p>
