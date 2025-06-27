@@ -27,7 +27,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 🚁 **Counter-UAS Target Prioritization @ Anduril**  
 Convex optimization + Rust-based simulation suite integrated into tactical fire exercises.
 
-🧭 **6DOF Quadruped Navigation @ Yale APOLLO Lab**  
+🧭 **Autonomous Quadruped Navigation @ Yale APOLLO Lab**  
 Deployed object permanence and adaptive consensus modules for dynamic, cluttered environments.
 
 🛰️ **Satellite Analytics @ NGA + YaleFPI**  
