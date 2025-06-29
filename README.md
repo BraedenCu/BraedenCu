@@ -31,7 +31,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 
 <div align="center">
 
-### 🤖 Autonomous Robotics & Edge AI
+### Autonomous Robotics & Edge AI
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 </tr>
 </table>
 
-### 🛡️ Defense & Intelligence Systems
+### Defense & Intelligence Systems
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 </tr>
 </table>
 
-### 🧠 Machine Learning & AI Research
+### Machine Learning & AI Research
 
 <table>
 <tr>
