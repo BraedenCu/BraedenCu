@@ -1,4 +1,6 @@
-[![BraedenCu’s contribution graph](https://ghchart.rshah.org/BraedenCu)
+<p align="center">
+  <img src="https://ghchart.rshah.org/BraedenCu" alt="BraedenCu’s contribution graph" />
+</p>
 
 <h1 align="center">🐙 Hi, I'm Braeden Cullen 🐙</h1>
 <p align="center">
