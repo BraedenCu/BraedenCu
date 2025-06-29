@@ -181,7 +181,7 @@ context with bi-encoder embeddings, and ranked fixes via a custom confidence-wei
 </tr>
 </table>
 
-## Robotics & Machining
+## Design & Machining
 
 <table>
 <tr>
@@ -191,14 +191,14 @@ context with bi-encoder embeddings, and ranked fixes via a custom confidence-wei
   <br><em>Scrappy machining & Edge Compute</em>
   <br>Retrofit salvaged sheet-metal panels and wheelchair drivetrain components into a rideable, heavy-duty autonomous rover. Reinforced chassis framing and custom steering linkages support a seated operator, while onboard ROS edge-compute handles LiDAR/IMU sensor fusion for SLAM-based navigation and high-torque motor control for rugged terrain traversal.
 </td>
-</tr>
-<tr>
 <td align="center" width="50%">
   <img src="images/makerfaire.jpg" alt="MakerFaire Creeper" width="100%"/>
   <br><strong>Creeper Rover</strong>
   <br><em>Woodworking and Router Machining</em>
   <br>Salvaged drivetrain and machined sheet-steel into a stable creeper rover. Engineered reinforced chassis framing, custom motor controllers, and operator joystick interface. Implemented self-stabilizing IMU-driven algos to reduce tip frequency.
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
   <img src="images/shop-dog.jpeg" alt="Shop Dog" width="100%"/>
   <br><strong>Shop Keeper</strong>
