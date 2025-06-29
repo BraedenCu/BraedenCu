@@ -93,6 +93,15 @@ I design **real-world ML systems** that live on embedded hardware, control drone
   <br>Contributed to the development of a racing vehicle chassis and control system for competing in the SAE challenge. Working to integrate full autonomy using SLAM & CV.
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+  <img src="images/autonomous-cnc.jpg" alt="CNC" width="100%"/>
+  <br><strong>Predictive Maintenance & Workflow Automation</strong>
+  <br><em>CNC Maching & Workflow Automation</em>
+  <br>Built an end-to-end GraphRAG diagnostic assistant for ASML lithography tools: ingested 2M+ service logs into a vector store, retrieved
+context with bi-encoder embeddings, and ranked fixes via a custom confidence-weighted scorer. Coupled this with a reinforcement-learning tool-path optimizer that trimmed non-cut motion by predicting spindle RPM/axis feeds on the fly.
+</td>
+</tr>
 <td align="center" width="50%">
 </td>
 <td align="center" width="50%">
@@ -182,25 +191,18 @@ I design **real-world ML systems** that live on embedded hardware, control drone
   <br><em>Scrappy machining & Edge Compute</em>
   <br>Retrofit salvaged sheet-metal panels and wheelchair drivetrain components into a rideable, heavy-duty autonomous rover. Reinforced chassis framing and custom steering linkages support a seated operator, while onboard ROS edge-compute handles LiDAR/IMU sensor fusion for SLAM-based navigation and high-torque motor control for rugged terrain traversal.
 </td>
-<td align="center" width="50%">
-  <img src="images/makerfaire.jpg" alt="MakerFaire Creeper" width="100%"/>
-  <br><strong>Hierarchical Reinforcement Learning</strong>
-  <br><em>Multi-Level Decision Making</em>
-  <br>Salvaged drivetrain and machined sheet-steel into a stable creeper rover. Engineered reinforced chassis framing, custom motor controllers, and operator joystick interface. Implemented self-stabilizing IMU-driven algos to reduce tip frequency.
-</td>
 </tr>
 <tr>
 <td align="center" width="50%">
-  <img src="images/autonomous-cnc.jpg" alt="CNC" width="100%"/>
-  <br><strong>Predictive Maintenance & Workflow Automation</strong>
-  <br><em>CNC Maching & Workflow Automation</em>
-  <br>Built an end-to-end GraphRAG diagnostic assistant for ASML lithography tools: ingested 2M+ service logs into a vector store, retrieved
-context with bi-encoder embeddings, and ranked fixes via a custom confidence-weighted scorer. Coupled this with a reinforcement-learning tool-path optimizer that trimmed non-cut motion by predicting spindle RPM/axis feeds on the fly.
+  <img src="images/makerfaire.jpg" alt="MakerFaire Creeper" width="100%"/>
+  <br><strong>Creeper Rover</strong>
+  <br><em>Woodworking and Router Machining</em>
+  <br>Salvaged drivetrain and machined sheet-steel into a stable creeper rover. Engineered reinforced chassis framing, custom motor controllers, and operator joystick interface. Implemented self-stabilizing IMU-driven algos to reduce tip frequency.
 </td>
 <td align="center" width="50%">
   <img src="images/shop-dog.jpeg" alt="Shop Dog" width="100%"/>
   <br><strong>Shop Keeper</strong>
-  <br><em>Key Contributor & Helping Out Around the Shop</em>
+  <br><em>Machining Expert and Resident Engineer</em>
   <br>
 </td>
 </tr>
