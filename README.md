@@ -9,8 +9,8 @@
 
 <p align="center">
   <!--a href="https://www.braedencullen.com">🌐 Website</a-->
-  <a href="https://www.linkedin.com/in/braeden-cullen">🔗 LinkedIn</a> •
-  <a href="mailto:braeden.cullen@yale.edu">✉️ Email</a>
+  <a href="https://www.linkedin.com/in/braeden-cullen">LinkedIn</a> •
+  <a href="mailto:braeden.cullen@yale.edu">Email</a>
 </p>
 
 ---
@@ -20,24 +20,24 @@ I'm a dual-degree Computer Science B.S./M.S. and Economics B.A. student at **Yal
 
 I design **real-world ML systems** that live on embedded hardware, control drones, detect gestures, navigate cluttered environments, and accelerate simulations. My work lives at the intersection of:
 
-- 🛰️ **Edge AI & Robotics** — quadrupeds, UAVs, and autonomous responders  
-- 🛡️ **Defense Systems Engineering** — live-fire C2 simulations, counter-UAS optimization  
-- 🧮 **Probabilistic Modeling & HPC** — convex solvers on NixOS, RAG pipelines, CUDA inference  
-- 🌍 **Geospatial Intelligence** — analyzing foreign energy infrastructure from space  
+- **Edge AI & Robotics** — quadrupeds, UAVs, and autonomous responders  
+- **Defense Systems Engineering** — live-fire C2 simulations, counter-UAS optimization  
+- **Probabilistic Modeling & HPC** — convex solvers in Rust, RAG pipelines, CUDA inference  
+- **Geospatial Intelligence** — analyzing foreign energy infrastructure from space  
 
 ---
 
 ### ⚔️ Featured Work
-🚁 **Counter-UAS Target Prioritization @ Anduril**  
+**Counter-UAS Target Prioritization @ Anduril**  
 Convex optimization + Rust-based simulation suite integrated into tactical fire exercises.
 
-🧭 **Autonomous Quadruped Navigation @ Yale APOLLO Lab**  
+**Autonomous Quadruped Navigation @ Yale APOLLO Lab**  
 Deployed object permanence and adaptive consensus modules for dynamic, cluttered environments.
 
-🛰️ **Satellite Analytics @ NGA + YaleFPI**  
+**Satellite Analytics @ NGA + YaleFPI**  
 Detected covert Russian installations in North Africa using remote sensing & statistical inference.
 
-🔧 **ML-Assisted CNC Planning**  
+**ML-Assisted CNC Planning**  
 Reinforcement learning for autonomous G-code generation and optimization.
 
 ---
