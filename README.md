@@ -82,9 +82,9 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 <tr>
 <td align="center" width="50%">
   <img src="images/ros-rover.jpeg" alt="Exploration Rover Arm" width="100%"/>
-  <br><strong>Robotic Manipulation System</strong>
-  <br><em>Precision Control</em>
-  <br>Developed high-precision robotic arm control systems with advanced kinematics and force feedback for delicate manipulation tasks. Aiming to compete in the University Rover Challenge by early May. Utilized inverse kinematics to estimate pose of obscured joints while performing missions.
+  <br><strong>Autonomous SLAM Navigation</strong>
+  <br><em>Fully Autonomous Rover</em>
+  <br>Developed a SLAM-based autonomous rover capable of navigating to waypoints in foreign environments. Utilized a ZED stereoscopic camera for generating point clouds. Used ROS to coordinate distributed nodes.
 </td>
 <td align="center" width="50%">
   <img src="images/bulldogs-racing-chassis.png" alt="Bulldogs Racing Chassis" width="100%"/>
