@@ -1,4 +1,4 @@
-[![BraedenCu’s contribution graph](https://activity-graph.herokuapp.com/graph?username=BraedenCu&theme=react-dark)](https://github.com/BraedenCu)
+[![BraedenCu’s contribution graph](https://ghchart.rshah.org/BraedenCu)
 
 <h1 align="center">🐙 Hi, I'm Braeden Cullen 🐙</h1>
 <p align="center">
