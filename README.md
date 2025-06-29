@@ -103,7 +103,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" colspan="2" width="100%">
   <img src="images/anduril-class.jpg" align="center" alt="Intelligence Processing" width="100%"/>
   <img src="images/anduril-lattice.jpg" align="center" alt="Intelligence Processing" width="100%"/>
   <br><strong>Anduril Software Engineer</strong>
@@ -111,10 +111,6 @@ I design **real-world ML systems** that live on embedded hardware, control drone
   <br>Architected and deployed scalable pipelines in Rust for real-time fusion of multi-source intelligence and automated threat assessment, leveraging convex-optimization techniques and high-performance computing to achieve ultra-low latency and robust decision-making.
 </td>
 </tr>
-<td align="center" width="50%">
-</td>
-</table>
-<table>
 <tr>
 <td align="center" width="50%">
   <img src="images/nga-intel.png" alt="Satellite Intelligence" width="100%"/>
