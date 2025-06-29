@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 <h1 align="center">Braeden Cullen </h1>
 <p align="center">
   ML Engineer • Embedded Systems Engineer • Autonomous Robotics  
@@ -16,6 +18,7 @@
 ---
 
 ## 🐙 **About Me**
+
 I'm a dual-degree Computer Science B.S./M.S. and Economics B.A. student at **Yale University**, building systems at the edge of autonomy, defense, and machine intelligence.
 
 I design **real-world ML systems** that live on embedded hardware, control drones, detect gestures, navigate cluttered environments, and accelerate simulations. My work lives at the intersection of:
@@ -31,7 +34,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 
 <div align="center">
 
-### Autonomous Robotics & Edge AI
+## Autonomous Robotics & Edge AI
 
 <table>
 <tr>
@@ -70,6 +73,20 @@ I design **real-world ML systems** that live on embedded hardware, control drone
   <br>Developed high-precision robotic arm control systems with advanced kinematics and force feedback for delicate manipulation tasks. Aiming to compete in the University Rover Challenge by early May. Utilized inverse kinematics to estimate pose of obscured joints while performing missions.
 </td>
 <td align="center" width="50%">
+  <img src="images/aid-drone.png" alt="Autonomous Aid Drone" width="100%"/>
+  <br><strong>Humanitarian Aid UAV</strong>
+  <br><em>Autonomous Navigation with a Centralized Command & Control Center</em>
+  <br>Built out a command and control distributed arhictecture that fields in sensor data from individual compute nodes each serving a specific purpose, including GPS orientation, drone pose, dropper control, and realtime computer vision. Leveraged a custom-trained computer vision model to identify individuals sigaling for aid delivery.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img src="images/ros-rover.jpeg" alt="Exploration Rover Arm" width="100%"/>
+  <br><strong>Robotic Manipulation System</strong>
+  <br><em>Precision Control</em>
+  <br>Developed high-precision robotic arm control systems with advanced kinematics and force feedback for delicate manipulation tasks. Aiming to compete in the University Rover Challenge by early May. Utilized inverse kinematics to estimate pose of obscured joints while performing missions.
+</td>
+<td align="center" width="50%">
   <img src="images/bulldogs-racing-chassis.png" alt="Bulldogs Racing Chassis" width="100%"/>
   <br><strong>Bulldogs SAE Racing Vehicle</strong>
   <br><em>Formula Student Competition</em>
@@ -82,7 +99,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 </td>
 </table>
 
-### Defense & Intelligence Systems
+## Defense & Intelligence Systems
 
 <table>
 <tr>
@@ -121,7 +138,7 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 </tr>
 </table>
 
-### Machine Learning & AI Research
+## Machine Learning & AI Research
 
 <table>
 <tr>
@@ -159,13 +176,13 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 </tr>
 </table>
 
-### Robotics & Machining
+## Robotics & Machining
 
 <table>
 <tr>
 <td align="center" width="50%">
   <img src="images/chicken.jpg" alt="Chicken" width="100%"/>
-  <br><strong>The Cockpit</strong>
+  <br><strong>CNC Autonomy & Improving Manufacturing Workflows</strong>
   <br><em>Scrappy machining & Edge Compute</em>
   <br>Retrofit salvaged sheet-metal panels and wheelchair drivetrain components into a rideable, heavy-duty autonomous rover. Reinforced chassis framing and custom steering linkages support a seated operator, while onboard ROS edge-compute handles LiDAR/IMU sensor fusion for SLAM-based navigation and high-torque motor control for rugged terrain traversal.
 </td>
@@ -173,7 +190,22 @@ I design **real-world ML systems** that live on embedded hardware, control drone
   <img src="images/makerfaire.jpg" alt="MakerFaire Creeper" width="100%"/>
   <br><strong>Hierarchical Reinforcement Learning</strong>
   <br><em>Multi-Level Decision Making</em>
-  <br>Retrofit wheelchair drivetrain and salvaged sheet-steel into a low-profile autonomous creeper. Engineered reinforced chassis framing, custom motor controllers, and operator joystick interface. 
+  <br>Salvaged drivetrain and machined sheet-steel into a stable creeper rover. Engineered reinforced chassis framing, custom motor controllers, and operator joystick interface. Implemented self-stabilizing IMU-driven algos to reduce tip frequency.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img src="images/autonomous-cnc.jpg" alt="CNC" width="100%"/>
+  <br><strong>Predictive Maintenance & Workflow Automation</strong>
+  <br><em>CNC Maching & Workflow Automation</em>
+  <br>Built an end-to-end GraphRAG diagnostic assistant for ASML lithography tools: ingested 2M+ service logs into a vector store, retrieved
+context with bi-encoder embeddings, and ranked fixes via a custom confidence-weighted scorer. Coupled this with a reinforcement-learning tool-path optimizer that trimmed non-cut motion by predicting spindle RPM/axis feeds on the fly.
+</td>
+<td align="center" width="50%">
+  <img src="images/shop-dog.jpeg" alt="Shop Dog" width="100%"/>
+  <br><strong>Shop Keeper</strong>
+  <br><em>Key Contributor & Helping Out Around the Shop</em>
+  <br>
 </td>
 </tr>
 </table>
