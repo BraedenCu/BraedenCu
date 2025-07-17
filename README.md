@@ -30,6 +30,19 @@ I design **real-world ML systems** that live on embedded hardware, control drone
 
 ---
 
+## Tech Stack
+
+```python
+Languages:    Python • C/C++ • Rust • Bash • SQL
+ML/AI:        PyTorch • TensorFlow • CUDA • OpenCV
+Systems:      NixOS • ROS • SLURM • Docker • gRPC  
+Frontend:     React • TypeScript • Node.js  
+Infra:        AWS • PostgreSQL • Unix/Linux
+DevOps:       Git • GitHub Actions • Nix • pytest
+```
+
+---
+
 ## 🐙 **Featured Projects**
 
 <div align="center">
@@ -211,14 +224,3 @@ context with bi-encoder embeddings, and ranked fixes via a custom confidence-wei
 </div>
 
 ---
-
-## Tech Stack
-
-```python
-Languages:    Python • C/C++ • Rust • Bash • SQL
-ML/AI:        PyTorch • TensorFlow • CUDA • OpenCV
-Systems:      NixOS • ROS • SLURM • Docker • gRPC  
-Frontend:     React • TypeScript • Node.js  
-Infra:        AWS • PostgreSQL • Unix/Linux
-DevOps:       Git • GitHub Actions • Nix • pytest
-```
