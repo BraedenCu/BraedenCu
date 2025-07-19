@@ -211,14 +211,6 @@ context with bi-encoder embeddings, and ranked fixes via a custom confidence-wei
   <br>Salvaged drivetrain and machined sheet-steel into a stable creeper rover. Engineered reinforced chassis framing, custom motor controllers, and operator joystick interface. Implemented self-stabilizing IMU-driven algos to reduce tip frequency.
 </td>
 </tr>
-<tr>
-<td align="center" width="50%">
-  <img src="images/shop-dog.jpeg" alt="Shop Dog" width="100%"/>
-  <br><strong>Shop Keeper</strong>
-  <br><em>Machining Expert and Resident Engineer</em>
-  <br>
-</td>
-</tr>
 </table>
 
 </div>
