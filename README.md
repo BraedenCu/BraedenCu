@@ -66,12 +66,6 @@ DevOps:       Git • GitHub Actions • Nix • pytest
 </tr>
 <tr>
 <td align="center" width="50%">
-  <img src="images/autonomous-drone.jpeg" alt="Autonomous Drone in Flight" width="100%"/>
-  <br><strong>Autonomous Drone Flight Testing</strong>
-  <br><em>Field Deployment</em>
-  <br>Real-world testing and validation of autonomous flight systems in challenging environmental conditions with aid delivery mission execution from a custom command and control center accessible over a webserver.
-</td>
-<td align="center" width="50%">
   <img src="images/exploration-rover-architecture.png" alt="Exploration Rover Architecture" width="100%"/>
   <br><strong>Exploration Rover System Design</strong>
   <br><em>Planetary Robotics</em>
@@ -89,7 +83,7 @@ DevOps:       Git • GitHub Actions • Nix • pytest
   <img src="images/aid-drone.png" alt="Autonomous Aid Drone" width="100%"/>
   <br><strong>Humanitarian Aid UAV</strong>
   <br><em>Autonomous Navigation with a Centralized Command & Control Center</em>
-  <br>Built out a command and control distributed arhictecture that fields in sensor data from individual compute nodes each serving a specific purpose, including GPS orientation, drone pose, dropper control, and realtime computer vision. Leveraged a custom-trained computer vision model to identify individuals sigaling for aid delivery.
+  <br>Built out a command and control distributed architecture that fields in sensor data from individual compute nodes each serving a specific purpose, including GPS orientation, drone pose, dropper control, and realtime computer vision. Leveraged a custom-trained computer vision model to identify individuals sigaling for aid delivery.
 </td>
 </tr>
 <tr>
@@ -166,14 +160,6 @@ context with bi-encoder embeddings, and ranked fixes via a custom confidence-wei
   <br><em>Knowledge Retrieval Systems</em>
   <br>Developed advanced retrieval-augmented generation systems using graph neural networks for improved knowledge extraction and synthesis.
 </td>
-<td align="center" width="50%">
-  <img src="images/hierarchical-rl.png" alt="Hierarchical Reinforcement Learning" width="100%"/>
-  <br><strong>Hierarchical Reinforcement Learning</strong>
-  <br><em>Multi-Level Decision Making</em>
-  <br>Implemented hierarchical RL frameworks for complex multi-level decision-making problems in robotics and automation.
-</td>
-</tr>
-<tr>
 <td align="center" width="50%">
   <img src="images/feudal-rl-cnc.gif" alt="Feudal RL CNC Planning" width="100%"/>
   <br><strong>ML-Assisted CNC Planning</strong>
