@@ -53,8 +53,8 @@ DevOps:       Git • GitHub Actions • Nix • pytest
 <tr>
 <td align="center" width="50%">
   <img src="images/apollo-quadupedal.png" alt="APOLLO Quadruped Robot" width="100%"/>
-  <br><strong>APOLLO Quadruped Navigation</strong>
-  <br><em>Yale APOLLO Lab</em>
+  <br><strong>Quadruped Navigation</strong>
+  <br><em>Yale</em>
   <br>Deployed object permanence and adaptive consensus modules for dynamic, cluttered environments. Built robust perception systems for autonomous navigation in unstructured terrain.
 </td>
 <td align="center" width="50%">
