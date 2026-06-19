@@ -13,4 +13,4 @@
 
 ## 🐙 **About Me**
 
-I'm a dual-degree Computer Science B.S./M.S. and Economics B.A. student at **Yale University**, building systems at the edge of autonomy.
+Computer Science B.S./M.S. student at **Yale University**, building systems at the edge of autonomy.
