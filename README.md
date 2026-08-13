@@ -2,10 +2,6 @@
 
 <h1 align="center">Braeden Cullen </h1>
 <p align="center">
-  ML • Embedded Systems • Autonomy
-</p>
-
-<p align="center">
   <!--a href="https://www.braedencullen.com">🌐 Website</a-->
   <a href="https://www.linkedin.com/in/braeden-cullen">LinkedIn</a> •
   <a href="mailto:braeden.cullen@yale.edu">Email</a>
@@ -13,4 +9,4 @@
 
 ## 🐙 **About Me**
 
-Computer Science B.S./M.S. student at **Yale University**, building systems at the edge of autonomy.
+CS B.S./M.S. student at Yale building systems at the edge of autonomy.
