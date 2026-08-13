@@ -7,6 +7,4 @@
   <a href="mailto:braeden.cullen@yale.edu">Email</a>
 </p>
 
-## 🐙 **About Me**
-
 CS B.S./M.S. student at Yale building systems at the edge of autonomy.
